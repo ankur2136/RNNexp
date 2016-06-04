@@ -18,8 +18,8 @@ if __name__ == '__main__':
 
 	index = sys.argv[1]
 	fold = sys.argv[2]	
-	path_to_dataset = '/scr/ashesh/brain4cars/dataset/{0}'.format(fold)
-	path_to_checkpoints = '/scr/ashesh/brain4cars/checkpoints/{0}'.format(fold)
+	path_to_dataset = os.getcwd() + '/checkpoints/all/fold_{0}'.format(fold)
+	path_to_checkpoints = os.getcwd() + '/checkpoints/all/fold_{0}'.format(fold)
 	test_data = cPickle.load(open('{1}/test_data_{0}.pik'.format(index,path_to_dataset)))	
 	Y_te = test_data['labels']
 	X_te = test_data['features']
@@ -34,11 +34,11 @@ if __name__ == '__main__':
 	train_data = cPickle.load(open('{1}/train_data_{0}.pik'.format(index,path_to_dataset)))	
 	Y_tr = train_data['labels']
 	X_tr = train_data['features']
-	print X_tr.shape
-	print Y_tr.shape
+	print (X_tr.shape)
+	print (Y_tr.shape)
 
 	
-	print type(X_tr[0,0,0])
+#	print type(X_tr[0,0,0])
 
 	num_train = X_tr.shape[1]
 	num_test = len(X_te)
@@ -48,8 +48,8 @@ if __name__ == '__main__':
 	inputD = X_tr.shape[2]
 	outputD = num_classes 
 
-	print 'Number of classes ',outputD
-	print 'Feature dimension ',inputD
+	print ('Number of classes {0}'.format(outputD))
+	print ('Feature dimension {0}'.format(inputD))
 
 	epochs = 600
 	batch_size = num_train

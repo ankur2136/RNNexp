@@ -46,7 +46,7 @@ def readManeuvers(folder):
 	return features, sample_ratio
 
 def createData(folder):
-	path_to_dataset = '/scr/ashesh/brain4cars/dataset/{0}'.format(fold)
+	path_to_dataset = os.getcwd() + '/checkpoints/all/{0}'.format(fold)
 	if not os.path.exists(path_to_dataset):
 		os.mkdir(path_to_dataset)	
 
@@ -158,5 +158,5 @@ if __name__=='__main__':
 	#folder = '/home/ashesh/project/Brain4Cars/Software/HMMBaseline/observations/all/AIOHMM_I_O/fold_1'
 	folds = ['fold_1','fold_2','fold_3','fold_4','fold_5']
 	for fold in folds:
-		folder = '/scr/ashesh/brain4cars/all_new_features/AIOHMM_I_O/{0}'.format(fold)
+		folder = os.getcwd() + '/checkpoints/all_new_features/{0}'.format(fold)
 		createData(folder)
