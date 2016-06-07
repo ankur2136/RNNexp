@@ -1,0 +1,1805 @@
+Couldn't import dot_parser, loading of dot files will not be possible.
+(7, 1897, 13)
+(7, 1897)
+Number of classes 6
+Feature dimension 13
+epoch=0 loss=2.83734378678
+saving snapshot checkpoint.0
+Epoch took 0.0778169631958 seconds
+epoch=1 loss=2.76621900356
+saving snapshot checkpoint.1
+Epoch took 0.0780370235443 seconds
+epoch=2 loss=2.69820554807
+saving snapshot checkpoint.2
+Epoch took 0.0810918807983 seconds
+epoch=3 loss=2.61892871997
+saving snapshot checkpoint.3
+Epoch took 0.0870249271393 seconds
+epoch=4 loss=2.53643522293
+saving snapshot checkpoint.4
+Epoch took 0.098935842514 seconds
+epoch=5 loss=2.46630885278
+saving snapshot checkpoint.5
+Epoch took 0.0899181365967 seconds
+epoch=6 loss=2.41069029306
+saving snapshot checkpoint.6
+Epoch took 0.0817778110504 seconds
+epoch=7 loss=2.36279148297
+saving snapshot checkpoint.7
+Epoch took 0.0932850837708 seconds
+epoch=8 loss=2.31689960967
+saving snapshot checkpoint.8
+Epoch took 0.092444896698 seconds
+epoch=9 loss=2.26912064027
+saving snapshot checkpoint.9
+Epoch took 0.0852098464966 seconds
+epoch=10 loss=2.21818655709
+saving snapshot checkpoint.10
+Epoch took 0.0818150043488 seconds
+epoch=11 loss=2.16366605301
+saving snapshot checkpoint.11
+Epoch took 0.0899481773376 seconds
+epoch=12 loss=2.11234293339
+saving snapshot checkpoint.12
+Epoch took 0.102147817612 seconds
+epoch=13 loss=2.08688785225
+saving snapshot checkpoint.13
+Epoch took 0.0984380245209 seconds
+epoch=14 loss=2.09261334241
+saving snapshot checkpoint.14
+Epoch took 0.0994350910187 seconds
+epoch=15 loss=1.9917916312
+saving snapshot checkpoint.15
+Epoch took 0.0997200012207 seconds
+epoch=16 loss=1.94574486136
+saving snapshot checkpoint.16
+Epoch took 0.090204000473 seconds
+epoch=17 loss=1.89814174516
+saving snapshot checkpoint.17
+Epoch took 0.0972368717194 seconds
+epoch=18 loss=1.86419220231
+saving snapshot checkpoint.18
+Epoch took 0.0892992019653 seconds
+epoch=19 loss=1.83098694602
+saving snapshot checkpoint.19
+Epoch took 0.10019993782 seconds
+epoch=20 loss=1.81141582539
+saving snapshot checkpoint.20
+Epoch took 0.0920910835266 seconds
+epoch=21 loss=1.78713036998
+saving snapshot checkpoint.21
+Epoch took 0.096372127533 seconds
+epoch=22 loss=1.77086436213
+saving snapshot checkpoint.22
+Epoch took 0.0792679786682 seconds
+epoch=23 loss=1.73209508693
+saving snapshot checkpoint.23
+Epoch took 0.0781598091125 seconds
+epoch=24 loss=1.70655175787
+saving snapshot checkpoint.24
+Epoch took 0.0904498100281 seconds
+epoch=25 loss=1.6750918507
+saving snapshot checkpoint.25
+Epoch took 0.0972721576691 seconds
+epoch=26 loss=1.65213674365
+saving snapshot checkpoint.26
+Epoch took 0.0972301959991 seconds
+epoch=27 loss=1.62859535637
+saving snapshot checkpoint.27
+Epoch took 0.0920088291168 seconds
+epoch=28 loss=1.60853692041
+saving snapshot checkpoint.28
+Epoch took 0.0902371406555 seconds
+epoch=29 loss=1.58836453478
+saving snapshot checkpoint.29
+Epoch took 0.0939810276031 seconds
+epoch=30 loss=1.57026834481
+saving snapshot checkpoint.30
+Epoch took 0.0887098312378 seconds
+epoch=31 loss=1.55198333731
+saving snapshot checkpoint.31
+Epoch took 0.080885887146 seconds
+epoch=32 loss=1.53565936392
+saving snapshot checkpoint.32
+Epoch took 0.0770390033722 seconds
+epoch=33 loss=1.5190490993
+saving snapshot checkpoint.33
+Epoch took 0.0758769512177 seconds
+epoch=34 loss=1.50493335451
+saving snapshot checkpoint.34
+Epoch took 0.0814309120178 seconds
+epoch=35 loss=1.49011520589
+saving snapshot checkpoint.35
+Epoch took 0.0819289684296 seconds
+epoch=36 loss=1.47734373513
+saving snapshot checkpoint.36
+Epoch took 0.0741021633148 seconds
+epoch=37 loss=1.46248655063
+saving snapshot checkpoint.37
+Epoch took 0.0744690895081 seconds
+epoch=38 loss=1.44708530526
+saving snapshot checkpoint.38
+Epoch took 0.0899031162262 seconds
+epoch=39 loss=1.43070016841
+saving snapshot checkpoint.39
+Epoch took 0.0758039951324 seconds
+epoch=40 loss=1.41351201439
+saving snapshot checkpoint.40
+Epoch took 0.0729830265045 seconds
+epoch=41 loss=1.39786346762
+saving snapshot checkpoint.41
+Epoch took 0.0758221149445 seconds
+epoch=42 loss=1.38260195802
+saving snapshot checkpoint.42
+Epoch took 0.0812702178955 seconds
+epoch=43 loss=1.36846144776
+saving snapshot checkpoint.43
+Epoch took 0.0810890197754 seconds
+epoch=44 loss=1.3556528487
+saving snapshot checkpoint.44
+Epoch took 0.0826361179352 seconds
+epoch=45 loss=1.34180162931
+saving snapshot checkpoint.45
+Epoch took 0.0736238956451 seconds
+epoch=46 loss=1.32991379296
+saving snapshot checkpoint.46
+Epoch took 0.085186958313 seconds
+epoch=47 loss=1.31552592166
+saving snapshot checkpoint.47
+Epoch took 0.0750269889832 seconds
+epoch=48 loss=1.30342811868
+saving snapshot checkpoint.48
+Epoch took 0.0757188796997 seconds
+epoch=49 loss=1.28977831557
+saving snapshot checkpoint.49
+Epoch took 0.0758669376373 seconds
+epoch=50 loss=1.27792456555
+saving snapshot checkpoint.50
+Epoch took 0.0818119049072 seconds
+epoch=51 loss=1.26636133434
+saving snapshot checkpoint.51
+Epoch took 0.086079120636 seconds
+epoch=52 loss=1.25521980578
+saving snapshot checkpoint.52
+Epoch took 0.111925125122 seconds
+epoch=53 loss=1.24590567931
+saving snapshot checkpoint.53
+Epoch took 0.097589969635 seconds
+epoch=54 loss=1.23487489582
+saving snapshot checkpoint.54
+Epoch took 0.104019165039 seconds
+epoch=55 loss=1.22694647238
+saving snapshot checkpoint.55
+Epoch took 0.0937578678131 seconds
+epoch=56 loss=1.21497411539
+saving snapshot checkpoint.56
+Epoch took 0.102861166 seconds
+epoch=57 loss=1.20734238023
+saving snapshot checkpoint.57
+Epoch took 0.155375003815 seconds
+epoch=58 loss=1.19467233242
+saving snapshot checkpoint.58
+Epoch took 0.112092971802 seconds
+epoch=59 loss=1.18712260237
+saving snapshot checkpoint.59
+Epoch took 0.0951011180878 seconds
+epoch=60 loss=1.1749209102
+saving snapshot checkpoint.60
+Epoch took 0.100743055344 seconds
+epoch=61 loss=1.16784322532
+saving snapshot checkpoint.61
+Epoch took 0.0961170196533 seconds
+epoch=62 loss=1.15662580963
+saving snapshot checkpoint.62
+Epoch took 0.100333213806 seconds
+epoch=63 loss=1.15032332737
+saving snapshot checkpoint.63
+Epoch took 0.102061986923 seconds
+epoch=64 loss=1.13988050871
+saving snapshot checkpoint.64
+Epoch took 0.102138996124 seconds
+epoch=65 loss=1.13444301145
+saving snapshot checkpoint.65
+Epoch took 0.0820920467377 seconds
+epoch=66 loss=1.12431384056
+saving snapshot checkpoint.66
+Epoch took 0.0767312049866 seconds
+epoch=67 loss=1.11969038656
+saving snapshot checkpoint.67
+Epoch took 0.0745000839233 seconds
+epoch=68 loss=1.10966969245
+saving snapshot checkpoint.68
+Epoch took 0.0968601703644 seconds
+epoch=69 loss=1.10570230986
+saving snapshot checkpoint.69
+Epoch took 0.0988669395447 seconds
+epoch=70 loss=1.09680265711
+saving snapshot checkpoint.70
+Epoch took 0.103361129761 seconds
+epoch=71 loss=1.0928651444
+saving snapshot checkpoint.71
+Epoch took 0.100625038147 seconds
+epoch=72 loss=1.08768190131
+saving snapshot checkpoint.72
+Epoch took 0.098258972168 seconds
+epoch=73 loss=1.08221242321
+saving snapshot checkpoint.73
+Epoch took 0.0978500843048 seconds
+epoch=74 loss=1.08076044327
+saving snapshot checkpoint.74
+Epoch took 0.0949311256409 seconds
+epoch=75 loss=1.07621011532
+saving snapshot checkpoint.75
+Epoch took 0.101545095444 seconds
+epoch=76 loss=1.07313761158
+saving snapshot checkpoint.76
+Epoch took 0.0980570316315 seconds
+epoch=77 loss=1.07166841816
+saving snapshot checkpoint.77
+Epoch took 0.0992639064789 seconds
+epoch=78 loss=1.06516566485
+saving snapshot checkpoint.78
+Epoch took 0.0991051197052 seconds
+epoch=79 loss=1.05628072302
+saving snapshot checkpoint.79
+Epoch took 0.10183095932 seconds
+epoch=80 loss=1.04939359582
+saving snapshot checkpoint.80
+Epoch took 0.099974155426 seconds
+epoch=81 loss=1.03492919701
+saving snapshot checkpoint.81
+Epoch took 0.098953962326 seconds
+epoch=82 loss=1.02786569418
+saving snapshot checkpoint.82
+Epoch took 0.0972809791565 seconds
+epoch=83 loss=1.01682695049
+saving snapshot checkpoint.83
+Epoch took 0.0985488891602 seconds
+epoch=84 loss=1.00998841794
+saving snapshot checkpoint.84
+Epoch took 0.0944948196411 seconds
+epoch=85 loss=1.00234103327
+saving snapshot checkpoint.85
+Epoch took 0.100547075272 seconds
+epoch=86 loss=0.995977627616
+saving snapshot checkpoint.86
+Epoch took 0.0931529998779 seconds
+epoch=87 loss=0.990128778322
+saving snapshot checkpoint.87
+Epoch took 0.0983860492706 seconds
+epoch=88 loss=0.984187209666
+saving snapshot checkpoint.88
+Epoch took 0.096321105957 seconds
+epoch=89 loss=0.979580492596
+saving snapshot checkpoint.89
+Epoch took 0.0945949554443 seconds
+epoch=90 loss=0.97408843006
+saving snapshot checkpoint.90
+Epoch took 0.0824790000916 seconds
+epoch=91 loss=0.971096849364
+saving snapshot checkpoint.91
+Epoch took 0.0872461795807 seconds
+epoch=92 loss=0.966724057111
+saving snapshot checkpoint.92
+Epoch took 0.0869147777557 seconds
+epoch=93 loss=0.967192324235
+saving snapshot checkpoint.93
+Epoch took 0.0743119716644 seconds
+epoch=94 loss=0.967291279588
+saving snapshot checkpoint.94
+Epoch took 0.0822441577911 seconds
+epoch=95 loss=0.971561956489
+saving snapshot checkpoint.95
+Epoch took 0.0773470401764 seconds
+epoch=96 loss=0.978262017965
+saving snapshot checkpoint.96
+Epoch took 0.0758211612701 seconds
+epoch=97 loss=0.965133085204
+saving snapshot checkpoint.97
+Epoch took 0.0791640281677 seconds
+epoch=98 loss=0.963243633207
+saving snapshot checkpoint.98
+Epoch took 0.0981521606445 seconds
+epoch=99 loss=0.947085552513
+saving snapshot checkpoint.99
+Epoch took 0.0981500148773 seconds
+epoch=100 loss=0.940883098424
+saving snapshot checkpoint.100
+Epoch took 0.100942850113 seconds
+epoch=101 loss=0.936535312354
+saving snapshot checkpoint.101
+Epoch took 0.101204156876 seconds
+epoch=102 loss=0.929692671048
+saving snapshot checkpoint.102
+Epoch took 0.0993700027466 seconds
+epoch=103 loss=0.926110925115
+saving snapshot checkpoint.103
+Epoch took 0.0890338420868 seconds
+epoch=104 loss=0.918837843199
+saving snapshot checkpoint.104
+Epoch took 0.0756161212921 seconds
+epoch=105 loss=0.912847282482
+saving snapshot checkpoint.105
+Epoch took 0.0905730724335 seconds
+epoch=106 loss=0.906711449901
+saving snapshot checkpoint.106
+Epoch took 0.0985379219055 seconds
+epoch=107 loss=0.899953946352
+saving snapshot checkpoint.107
+Epoch took 0.100498199463 seconds
+epoch=108 loss=0.895215377151
+saving snapshot checkpoint.108
+Epoch took 0.101768016815 seconds
+epoch=109 loss=0.888815094128
+saving snapshot checkpoint.109
+Epoch took 0.0984191894531 seconds
+epoch=110 loss=0.885040045035
+saving snapshot checkpoint.110
+Epoch took 0.100411176682 seconds
+epoch=111 loss=0.879174005524
+saving snapshot checkpoint.111
+Epoch took 0.0997450351715 seconds
+epoch=112 loss=0.876082449954
+saving snapshot checkpoint.112
+Epoch took 0.0983421802521 seconds
+epoch=113 loss=0.870725396297
+saving snapshot checkpoint.113
+Epoch took 0.100882053375 seconds
+epoch=114 loss=0.868304154418
+saving snapshot checkpoint.114
+Epoch took 0.0981438159943 seconds
+epoch=115 loss=0.863627662548
+saving snapshot checkpoint.115
+Epoch took 0.0992650985718 seconds
+epoch=116 loss=0.862128588595
+saving snapshot checkpoint.116
+Epoch took 0.0929269790649 seconds
+epoch=117 loss=0.858887496345
+saving snapshot checkpoint.117
+Epoch took 0.0926868915558 seconds
+epoch=118 loss=0.858895061653
+saving snapshot checkpoint.118
+Epoch took 0.0946910381317 seconds
+epoch=119 loss=0.858811376033
+saving snapshot checkpoint.119
+Epoch took 0.097226858139 seconds
+epoch=120 loss=0.861011622442
+saving snapshot checkpoint.120
+Epoch took 0.100082159042 seconds
+epoch=121 loss=0.863747624652
+saving snapshot checkpoint.121
+Epoch took 0.0981338024139 seconds
+epoch=122 loss=0.866497978583
+saving snapshot checkpoint.122
+Epoch took 0.100686073303 seconds
+epoch=123 loss=0.860155927024
+saving snapshot checkpoint.123
+Epoch took 0.0992741584778 seconds
+epoch=124 loss=0.858500605535
+saving snapshot checkpoint.124
+Epoch took 0.0994338989258 seconds
+epoch=125 loss=0.843750523772
+saving snapshot checkpoint.125
+Epoch took 0.0993769168854 seconds
+epoch=126 loss=0.839222233534
+saving snapshot checkpoint.126
+Epoch took 0.0956041812897 seconds
+epoch=127 loss=0.831576028394
+saving snapshot checkpoint.127
+Epoch took 0.0954527854919 seconds
+epoch=128 loss=0.826478034441
+saving snapshot checkpoint.128
+Epoch took 0.0942208766937 seconds
+epoch=129 loss=0.823827462395
+saving snapshot checkpoint.129
+Epoch took 0.0957131385803 seconds
+epoch=130 loss=0.818282026089
+saving snapshot checkpoint.130
+Epoch took 0.0988481044769 seconds
+epoch=131 loss=0.81661096176
+saving snapshot checkpoint.131
+Epoch took 0.0992918014526 seconds
+epoch=132 loss=0.810652713948
+saving snapshot checkpoint.132
+Epoch took 0.0998899936676 seconds
+epoch=133 loss=0.808387548838
+saving snapshot checkpoint.133
+Epoch took 0.0956470966339 seconds
+epoch=134 loss=0.80245655278
+saving snapshot checkpoint.134
+Epoch took 0.0974140167236 seconds
+epoch=135 loss=0.799569199578
+saving snapshot checkpoint.135
+Epoch took 0.100513935089 seconds
+epoch=136 loss=0.794131377033
+saving snapshot checkpoint.136
+Epoch took 0.0994319915771 seconds
+epoch=137 loss=0.791018301069
+saving snapshot checkpoint.137
+Epoch took 0.0981059074402 seconds
+epoch=138 loss=0.78625393194
+saving snapshot checkpoint.138
+Epoch took 0.0931231975555 seconds
+epoch=139 loss=0.783194302594
+saving snapshot checkpoint.139
+Epoch took 0.0966489315033 seconds
+epoch=140 loss=0.779119700637
+saving snapshot checkpoint.140
+Epoch took 0.0935468673706 seconds
+epoch=141 loss=0.776289010886
+saving snapshot checkpoint.141
+Epoch took 0.0990300178528 seconds
+epoch=142 loss=0.772963478777
+saving snapshot checkpoint.142
+Epoch took 0.097512960434 seconds
+epoch=143 loss=0.770635796708
+saving snapshot checkpoint.143
+Epoch took 0.100218057632 seconds
+epoch=144 loss=0.768322295716
+saving snapshot checkpoint.144
+Epoch took 0.0994300842285 seconds
+epoch=145 loss=0.767129627504
+saving snapshot checkpoint.145
+Epoch took 0.0986859798431 seconds
+epoch=146 loss=0.766366322155
+saving snapshot checkpoint.146
+Epoch took 0.0989980697632 seconds
+epoch=147 loss=0.767229856609
+saving snapshot checkpoint.147
+Epoch took 0.0977690219879 seconds
+epoch=148 loss=0.768193237163
+saving snapshot checkpoint.148
+Epoch took 0.0963940620422 seconds
+epoch=149 loss=0.770063975856
+saving snapshot checkpoint.149
+Epoch took 0.0949029922485 seconds
+epoch=150 loss=0.770567338909
+saving snapshot checkpoint.150
+Epoch took 0.0940141677856 seconds
+epoch=151 loss=0.76758981608
+saving snapshot checkpoint.151
+Epoch took 0.0999898910522 seconds
+epoch=152 loss=0.764972888867
+saving snapshot checkpoint.152
+Epoch took 0.099573135376 seconds
+epoch=153 loss=0.756171819054
+saving snapshot checkpoint.153
+Epoch took 0.0982828140259 seconds
+epoch=154 loss=0.752223593994
+saving snapshot checkpoint.154
+Epoch took 0.101855993271 seconds
+epoch=155 loss=0.744156112172
+saving snapshot checkpoint.155
+Epoch took 0.0986511707306 seconds
+epoch=156 loss=0.740871270609
+saving snapshot checkpoint.156
+Epoch took 0.102094888687 seconds
+epoch=157 loss=0.735796456515
+saving snapshot checkpoint.157
+Epoch took 0.0964109897614 seconds
+epoch=158 loss=0.733392679615
+saving snapshot checkpoint.158
+Epoch took 0.0994911193848 seconds
+epoch=159 loss=0.730349682536
+saving snapshot checkpoint.159
+Epoch took 0.095654964447 seconds
+epoch=160 loss=0.728728944896
+saving snapshot checkpoint.160
+Epoch took 0.0945348739624 seconds
+epoch=161 loss=0.726532065862
+saving snapshot checkpoint.161
+Epoch took 0.0943109989166 seconds
+epoch=162 loss=0.7255644742
+saving snapshot checkpoint.162
+Epoch took 0.0955340862274 seconds
+epoch=163 loss=0.723215424541
+saving snapshot checkpoint.163
+Epoch took 0.0991590023041 seconds
+epoch=164 loss=0.722376654806
+saving snapshot checkpoint.164
+Epoch took 0.100748062134 seconds
+epoch=165 loss=0.719410311722
+saving snapshot checkpoint.165
+Epoch took 0.100203990936 seconds
+epoch=166 loss=0.71782638276
+saving snapshot checkpoint.166
+Epoch took 0.0992021560669 seconds
+epoch=167 loss=0.71473178521
+saving snapshot checkpoint.167
+Epoch took 0.0992529392242 seconds
+epoch=168 loss=0.711879342171
+saving snapshot checkpoint.168
+Epoch took 0.0970370769501 seconds
+epoch=169 loss=0.709413743927
+saving snapshot checkpoint.169
+Epoch took 0.10392999649 seconds
+epoch=170 loss=0.705478982584
+saving snapshot checkpoint.170
+Epoch took 0.101082086563 seconds
+epoch=171 loss=0.703767157183
+saving snapshot checkpoint.171
+Epoch took 0.101863861084 seconds
+epoch=172 loss=0.699304693756
+saving snapshot checkpoint.172
+Epoch took 0.0967299938202 seconds
+epoch=173 loss=0.697991001497
+saving snapshot checkpoint.173
+Epoch took 0.0988290309906 seconds
+epoch=174 loss=0.693546200866
+saving snapshot checkpoint.174
+Epoch took 0.0927751064301 seconds
+epoch=175 loss=0.69227363844
+saving snapshot checkpoint.175
+Epoch took 0.0929248332977 seconds
+epoch=176 loss=0.688238710828
+saving snapshot checkpoint.176
+Epoch took 0.0954229831696 seconds
+epoch=177 loss=0.686838669618
+saving snapshot checkpoint.177
+Epoch took 0.0965759754181 seconds
+epoch=178 loss=0.683438152756
+saving snapshot checkpoint.178
+Epoch took 0.0980880260468 seconds
+epoch=179 loss=0.681971850063
+saving snapshot checkpoint.179
+Epoch took 0.0981891155243 seconds
+epoch=180 loss=0.679305394665
+saving snapshot checkpoint.180
+Epoch took 0.0971298217773 seconds
+epoch=181 loss=0.678114879697
+saving snapshot checkpoint.181
+Epoch took 0.096755027771 seconds
+epoch=182 loss=0.67621019445
+saving snapshot checkpoint.182
+Epoch took 0.0966141223907 seconds
+epoch=183 loss=0.67589984739
+saving snapshot checkpoint.183
+Epoch took 0.0996251106262 seconds
+epoch=184 loss=0.67467784996
+saving snapshot checkpoint.184
+Epoch took 0.0954070091248 seconds
+epoch=185 loss=0.675662003323
+saving snapshot checkpoint.185
+Epoch took 0.0993630886078 seconds
+epoch=186 loss=0.674732237641
+saving snapshot checkpoint.186
+Epoch took 0.0985260009766 seconds
+epoch=187 loss=0.676004561688
+saving snapshot checkpoint.187
+Epoch took 0.100872039795 seconds
+epoch=188 loss=0.674596441902
+saving snapshot checkpoint.188
+Epoch took 0.10258603096 seconds
+epoch=189 loss=0.673376421535
+saving snapshot checkpoint.189
+Epoch took 0.10108590126 seconds
+epoch=190 loss=0.670922156123
+saving snapshot checkpoint.190
+Epoch took 0.103021144867 seconds
+epoch=191 loss=0.665954936349
+saving snapshot checkpoint.191
+Epoch took 0.0971019268036 seconds
+epoch=192 loss=0.662798216364
+saving snapshot checkpoint.192
+Epoch took 0.0998079776764 seconds
+epoch=193 loss=0.6563586253
+saving snapshot checkpoint.193
+Epoch took 0.095535993576 seconds
+epoch=194 loss=0.653313626173
+saving snapshot checkpoint.194
+Epoch took 0.0964879989624 seconds
+epoch=195 loss=0.64768118772
+saving snapshot checkpoint.195
+Epoch took 0.100549936295 seconds
+epoch=196 loss=0.64508036342
+saving snapshot checkpoint.196
+Epoch took 0.102766990662 seconds
+epoch=197 loss=0.640742202928
+saving snapshot checkpoint.197
+Epoch took 0.101521968842 seconds
+epoch=198 loss=0.638530880267
+saving snapshot checkpoint.198
+Epoch took 0.102200984955 seconds
+epoch=199 loss=0.635252482198
+saving snapshot checkpoint.199
+Epoch took 0.100692987442 seconds
+epoch=200 loss=0.63336984733
+saving snapshot checkpoint.200
+Epoch took 0.105168104172 seconds
+epoch=201 loss=0.630968853252
+saving snapshot checkpoint.201
+Epoch took 0.100954055786 seconds
+epoch=202 loss=0.62952069518
+saving snapshot checkpoint.202
+Epoch took 0.10058093071 seconds
+epoch=203 loss=0.628054664653
+saving snapshot checkpoint.203
+Epoch took 0.102364063263 seconds
+epoch=204 loss=0.627425556502
+saving snapshot checkpoint.204
+Epoch took 0.0980939865112 seconds
+epoch=205 loss=0.627191258537
+saving snapshot checkpoint.205
+Epoch took 0.0995149612427 seconds
+epoch=206 loss=0.628046592149
+saving snapshot checkpoint.206
+Epoch took 0.0990209579468 seconds
+epoch=207 loss=0.629229550071
+saving snapshot checkpoint.207
+Epoch took 0.096941947937 seconds
+epoch=208 loss=0.631655000377
+saving snapshot checkpoint.208
+Epoch took 0.0971159934998 seconds
+epoch=209 loss=0.633076016448
+saving snapshot checkpoint.209
+Epoch took 0.0944199562073 seconds
+epoch=210 loss=0.634328452626
+saving snapshot checkpoint.210
+Epoch took 0.0824918746948 seconds
+epoch=211 loss=0.633190148528
+saving snapshot checkpoint.211
+Epoch took 0.0760369300842 seconds
+epoch=212 loss=0.629473021387
+saving snapshot checkpoint.212
+Epoch took 0.0759580135345 seconds
+epoch=213 loss=0.62560462489
+saving snapshot checkpoint.213
+Epoch took 0.0726759433746 seconds
+epoch=214 loss=0.618795831667
+saving snapshot checkpoint.214
+Epoch took 0.0843691825867 seconds
+epoch=215 loss=0.61483181921
+saving snapshot checkpoint.215
+Epoch took 0.0763039588928 seconds
+epoch=216 loss=0.608806572936
+saving snapshot checkpoint.216
+Epoch took 0.0838539600372 seconds
+epoch=217 loss=0.605870237156
+saving snapshot checkpoint.217
+Epoch took 0.0942339897156 seconds
+epoch=218 loss=0.60159383375
+saving snapshot checkpoint.218
+Epoch took 0.103561878204 seconds
+epoch=219 loss=0.599510034536
+saving snapshot checkpoint.219
+Epoch took 0.100965976715 seconds
+epoch=220 loss=0.596608391843
+saving snapshot checkpoint.220
+Epoch took 0.103229999542 seconds
+epoch=221 loss=0.595185118304
+saving snapshot checkpoint.221
+Epoch took 0.10161113739 seconds
+epoch=222 loss=0.593363280245
+saving snapshot checkpoint.222
+Epoch took 0.101428985596 seconds
+epoch=223 loss=0.592759108132
+saving snapshot checkpoint.223
+Epoch took 0.102795124054 seconds
+epoch=224 loss=0.592002487585
+saving snapshot checkpoint.224
+Epoch took 0.0985178947449 seconds
+epoch=225 loss=0.592745391238
+saving snapshot checkpoint.225
+Epoch took 0.0911428928375 seconds
+epoch=226 loss=0.593028893785
+saving snapshot checkpoint.226
+Epoch took 0.0979738235474 seconds
+epoch=227 loss=0.595547096578
+saving snapshot checkpoint.227
+Epoch took 0.108746051788 seconds
+epoch=228 loss=0.596030170917
+saving snapshot checkpoint.228
+Epoch took 0.079843044281 seconds
+epoch=229 loss=0.599068195509
+saving snapshot checkpoint.229
+Epoch took 0.0746121406555 seconds
+epoch=230 loss=0.597836443074
+saving snapshot checkpoint.230
+Epoch took 0.0910861492157 seconds
+epoch=231 loss=0.598095154664
+saving snapshot checkpoint.231
+Epoch took 0.0799880027771 seconds
+epoch=232 loss=0.594699331177
+saving snapshot checkpoint.232
+Epoch took 0.0928800106049 seconds
+epoch=233 loss=0.591185064286
+saving snapshot checkpoint.233
+Epoch took 0.100678920746 seconds
+epoch=234 loss=0.587367606743
+saving snapshot checkpoint.234
+Epoch took 0.10223197937 seconds
+epoch=235 loss=0.58249386053
+saving snapshot checkpoint.235
+Epoch took 0.100581884384 seconds
+epoch=236 loss=0.579325822234
+saving snapshot checkpoint.236
+Epoch took 0.102494001389 seconds
+epoch=237 loss=0.574967737428
+saving snapshot checkpoint.237
+Epoch took 0.0983378887177 seconds
+epoch=238 loss=0.572490537343
+saving snapshot checkpoint.238
+Epoch took 0.0970690250397 seconds
+epoch=239 loss=0.569012442706
+saving snapshot checkpoint.239
+Epoch took 0.101511955261 seconds
+epoch=240 loss=0.567053779411
+saving snapshot checkpoint.240
+Epoch took 0.104241847992 seconds
+epoch=241 loss=0.564280760156
+saving snapshot checkpoint.241
+Epoch took 0.101460933685 seconds
+epoch=242 loss=0.562728384165
+saving snapshot checkpoint.242
+Epoch took 0.0908560752869 seconds
+epoch=243 loss=0.560477326972
+saving snapshot checkpoint.243
+Epoch took 0.0897808074951 seconds
+epoch=244 loss=0.55931840347
+saving snapshot checkpoint.244
+Epoch took 0.098081111908 seconds
+epoch=245 loss=0.557499105757
+saving snapshot checkpoint.245
+Epoch took 0.100677967072 seconds
+epoch=246 loss=0.556836974448
+saving snapshot checkpoint.246
+Epoch took 0.0985360145569 seconds
+epoch=247 loss=0.555437230685
+saving snapshot checkpoint.247
+Epoch took 0.0804059505463 seconds
+epoch=248 loss=0.555502298689
+saving snapshot checkpoint.248
+Epoch took 0.0786089897156 seconds
+epoch=249 loss=0.554540548265
+saving snapshot checkpoint.249
+Epoch took 0.0806841850281 seconds
+epoch=250 loss=0.555613934215
+saving snapshot checkpoint.250
+Epoch took 0.0809919834137 seconds
+epoch=251 loss=0.555037070207
+saving snapshot checkpoint.251
+Epoch took 0.0799210071564 seconds
+epoch=252 loss=0.557101939522
+saving snapshot checkpoint.252
+Epoch took 0.0768570899963 seconds
+epoch=253 loss=0.556647770445
+saving snapshot checkpoint.253
+Epoch took 0.0764508247375 seconds
+epoch=254 loss=0.558789767412
+saving snapshot checkpoint.254
+Epoch took 0.0725631713867 seconds
+epoch=255 loss=0.558017144459
+saving snapshot checkpoint.255
+Epoch took 0.0801801681519 seconds
+epoch=256 loss=0.558528339129
+saving snapshot checkpoint.256
+Epoch took 0.0765881538391 seconds
+epoch=257 loss=0.557017192742
+saving snapshot checkpoint.257
+Epoch took 0.0811460018158 seconds
+epoch=258 loss=0.554931103545
+saving snapshot checkpoint.258
+Epoch took 0.0783069133759 seconds
+epoch=259 loss=0.552448078454
+saving snapshot checkpoint.259
+Epoch took 0.0820450782776 seconds
+epoch=260 loss=0.548549626598
+saving snapshot checkpoint.260
+Epoch took 0.0795340538025 seconds
+epoch=261 loss=0.54545819245
+saving snapshot checkpoint.261
+Epoch took 0.0899591445923 seconds
+epoch=262 loss=0.541246870153
+saving snapshot checkpoint.262
+Epoch took 0.0986568927765 seconds
+epoch=263 loss=0.538287645483
+saving snapshot checkpoint.263
+Epoch took 0.100212097168 seconds
+epoch=264 loss=0.534629870707
+saving snapshot checkpoint.264
+Epoch took 0.0992169380188 seconds
+epoch=265 loss=0.532194060655
+saving snapshot checkpoint.265
+Epoch took 0.0978300571442 seconds
+epoch=266 loss=0.529206553672
+saving snapshot checkpoint.266
+Epoch took 0.096577167511 seconds
+epoch=267 loss=0.527273151314
+saving snapshot checkpoint.267
+Epoch took 0.0996429920197 seconds
+epoch=268 loss=0.524796749679
+saving snapshot checkpoint.268
+Epoch took 0.0997500419617 seconds
+epoch=269 loss=0.523218383034
+saving snapshot checkpoint.269
+Epoch took 0.0998311042786 seconds
+epoch=270 loss=0.521099686935
+saving snapshot checkpoint.270
+Epoch took 0.102337837219 seconds
+epoch=271 loss=0.519766183281
+saving snapshot checkpoint.271
+Epoch took 0.102041959763 seconds
+epoch=272 loss=0.517928725236
+saving snapshot checkpoint.272
+Epoch took 0.0985610485077 seconds
+epoch=273 loss=0.516816700476
+saving snapshot checkpoint.273
+Epoch took 0.102900981903 seconds
+epoch=274 loss=0.515283315951
+saving snapshot checkpoint.274
+Epoch took 0.103350162506 seconds
+epoch=275 loss=0.514506815231
+saving snapshot checkpoint.275
+Epoch took 0.0992650985718 seconds
+epoch=276 loss=0.513467225065
+saving snapshot checkpoint.276
+Epoch took 0.101253032684 seconds
+epoch=277 loss=0.513431632019
+saving snapshot checkpoint.277
+Epoch took 0.0959360599518 seconds
+epoch=278 loss=0.51341651007
+saving snapshot checkpoint.278
+Epoch took 0.0967469215393 seconds
+epoch=279 loss=0.515177164988
+saving snapshot checkpoint.279
+Epoch took 0.100847959518 seconds
+epoch=280 loss=0.517220943244
+saving snapshot checkpoint.280
+Epoch took 0.100672006607 seconds
+epoch=281 loss=0.522691420683
+saving snapshot checkpoint.281
+Epoch took 0.106975078583 seconds
+epoch=282 loss=0.5271285836
+saving snapshot checkpoint.282
+Epoch took 0.100637197495 seconds
+epoch=283 loss=0.536309194021
+saving snapshot checkpoint.283
+Epoch took 0.101691007614 seconds
+epoch=284 loss=0.537903016633
+saving snapshot checkpoint.284
+Epoch took 0.102792978287 seconds
+epoch=285 loss=0.542571726106
+saving snapshot checkpoint.285
+Epoch took 0.0997560024261 seconds
+epoch=286 loss=0.534518422268
+saving snapshot checkpoint.286
+Epoch took 0.100795030594 seconds
+epoch=287 loss=0.529658110263
+saving snapshot checkpoint.287
+Epoch took 0.100328207016 seconds
+epoch=288 loss=0.51909742566
+saving snapshot checkpoint.288
+Epoch took 0.0985188484192 seconds
+epoch=289 loss=0.512356402002
+saving snapshot checkpoint.289
+Epoch took 0.096232175827 seconds
+epoch=290 loss=0.505751881668
+saving snapshot checkpoint.290
+Epoch took 0.0978529453278 seconds
+epoch=291 loss=0.501009394382
+saving snapshot checkpoint.291
+Epoch took 0.100965023041 seconds
+epoch=292 loss=0.497479576368
+saving snapshot checkpoint.292
+Epoch took 0.0998420715332 seconds
+epoch=293 loss=0.494292457829
+saving snapshot checkpoint.293
+Epoch took 0.101349115372 seconds
+epoch=294 loss=0.492194129708
+saving snapshot checkpoint.294
+Epoch took 0.103698015213 seconds
+epoch=295 loss=0.489837485683
+saving snapshot checkpoint.295
+Epoch took 0.0994560718536 seconds
+epoch=296 loss=0.488344142496
+saving snapshot checkpoint.296
+Epoch took 0.103019952774 seconds
+epoch=297 loss=0.486439867781
+saving snapshot checkpoint.297
+Epoch took 0.102188110352 seconds
+epoch=298 loss=0.485210816164
+saving snapshot checkpoint.298
+Epoch took 0.0982069969177 seconds
+epoch=299 loss=0.483591009914
+saving snapshot checkpoint.299
+Epoch took 0.0994250774384 seconds
+epoch=300 loss=0.482496521074
+saving snapshot checkpoint.300
+Epoch took 0.0991020202637 seconds
+epoch=301 loss=0.481105244803
+saving snapshot checkpoint.301
+Epoch took 0.0974252223969 seconds
+epoch=302 loss=0.480118500141
+saving snapshot checkpoint.302
+Epoch took 0.0972609519958 seconds
+epoch=303 loss=0.478983665607
+saving snapshot checkpoint.303
+Epoch took 0.0979290008545 seconds
+epoch=304 loss=0.478167083511
+saving snapshot checkpoint.304
+Epoch took 0.10134100914 seconds
+epoch=305 loss=0.477425270188
+saving snapshot checkpoint.305
+Epoch took 0.0989470481873 seconds
+epoch=306 loss=0.476996254025
+saving snapshot checkpoint.306
+Epoch took 0.102823972702 seconds
+epoch=307 loss=0.476974168986
+saving snapshot checkpoint.307
+Epoch took 0.103576183319 seconds
+epoch=308 loss=0.477481780418
+saving snapshot checkpoint.308
+Epoch took 0.100517034531 seconds
+epoch=309 loss=0.478792340564
+saving snapshot checkpoint.309
+Epoch took 0.101962089539 seconds
+epoch=310 loss=0.481345738349
+saving snapshot checkpoint.310
+Epoch took 0.102581977844 seconds
+epoch=311 loss=0.484571450938
+saving snapshot checkpoint.311
+Epoch took 0.0979208946228 seconds
+epoch=312 loss=0.490273767582
+saving snapshot checkpoint.312
+Epoch took 0.0999190807343 seconds
+epoch=313 loss=0.493932715842
+saving snapshot checkpoint.313
+Epoch took 0.0995111465454 seconds
+epoch=314 loss=0.500505924214
+saving snapshot checkpoint.314
+Epoch took 0.0996329784393 seconds
+epoch=315 loss=0.49915542678
+saving snapshot checkpoint.315
+Epoch took 0.0975320339203 seconds
+epoch=316 loss=0.499978361895
+saving snapshot checkpoint.316
+Epoch took 0.0976669788361 seconds
+epoch=317 loss=0.492331197469
+saving snapshot checkpoint.317
+Epoch took 0.10095500946 seconds
+epoch=318 loss=0.487291750425
+saving snapshot checkpoint.318
+Epoch took 0.100559949875 seconds
+epoch=319 loss=0.479785859099
+saving snapshot checkpoint.319
+Epoch took 0.101210832596 seconds
+epoch=320 loss=0.47440049351
+saving snapshot checkpoint.320
+Epoch took 0.103993177414 seconds
+epoch=321 loss=0.469894168498
+saving snapshot checkpoint.321
+Epoch took 0.101286888123 seconds
+epoch=322 loss=0.466134360723
+saving snapshot checkpoint.322
+Epoch took 0.101957798004 seconds
+epoch=323 loss=0.463705876467
+saving snapshot checkpoint.323
+Epoch took 0.102932929993 seconds
+epoch=324 loss=0.461216779711
+saving snapshot checkpoint.324
+Epoch took 0.099406003952 seconds
+epoch=325 loss=0.459825606054
+saving snapshot checkpoint.325
+Epoch took 0.10005402565 seconds
+epoch=326 loss=0.458127448545
+saving snapshot checkpoint.326
+Epoch took 0.0988519191742 seconds
+epoch=327 loss=0.457285414567
+saving snapshot checkpoint.327
+Epoch took 0.0984280109406 seconds
+epoch=328 loss=0.456146722789
+saving snapshot checkpoint.328
+Epoch took 0.0987219810486 seconds
+epoch=329 loss=0.455720699028
+saving snapshot checkpoint.329
+Epoch took 0.0993089675903 seconds
+epoch=330 loss=0.455079737544
+saving snapshot checkpoint.330
+Epoch took 0.101990938187 seconds
+epoch=331 loss=0.455133405123
+saving snapshot checkpoint.331
+Epoch took 0.103085041046 seconds
+epoch=332 loss=0.454994367451
+saving snapshot checkpoint.332
+Epoch took 0.10055398941 seconds
+epoch=333 loss=0.455682781466
+saving snapshot checkpoint.333
+Epoch took 0.103003978729 seconds
+epoch=334 loss=0.455979677878
+saving snapshot checkpoint.334
+Epoch took 0.103332042694 seconds
+epoch=335 loss=0.457368998873
+saving snapshot checkpoint.335
+Epoch took 0.101721048355 seconds
+epoch=336 loss=0.457770718512
+saving snapshot checkpoint.336
+Epoch took 0.102594852448 seconds
+epoch=337 loss=0.459520061786
+saving snapshot checkpoint.337
+Epoch took 0.0999970436096 seconds
+epoch=338 loss=0.459365681955
+saving snapshot checkpoint.338
+Epoch took 0.106006860733 seconds
+epoch=339 loss=0.460590611855
+saving snapshot checkpoint.339
+Epoch took 0.0982880592346 seconds
+epoch=340 loss=0.459319684247
+saving snapshot checkpoint.340
+Epoch took 0.09761095047 seconds
+epoch=341 loss=0.459197555057
+saving snapshot checkpoint.341
+Epoch took 0.0971190929413 seconds
+epoch=342 loss=0.456942653414
+saving snapshot checkpoint.342
+Epoch took 0.0932378768921 seconds
+epoch=343 loss=0.455499748246
+saving snapshot checkpoint.343
+Epoch took 0.098158121109 seconds
+epoch=344 loss=0.452893585578
+saving snapshot checkpoint.344
+Epoch took 0.100114107132 seconds
+epoch=345 loss=0.450772497028
+saving snapshot checkpoint.345
+Epoch took 0.100831031799 seconds
+epoch=346 loss=0.448332470401
+saving snapshot checkpoint.346
+Epoch took 0.103155851364 seconds
+epoch=347 loss=0.446094891493
+saving snapshot checkpoint.347
+Epoch took 0.0988841056824 seconds
+epoch=348 loss=0.444043078329
+saving snapshot checkpoint.348
+Epoch took 0.111290931702 seconds
+epoch=349 loss=0.441958273777
+saving snapshot checkpoint.349
+Epoch took 0.100416183472 seconds
+epoch=350 loss=0.440336374331
+saving snapshot checkpoint.350
+Epoch took 0.097207069397 seconds
+epoch=351 loss=0.438495632127
+saving snapshot checkpoint.351
+Epoch took 0.100426912308 seconds
+epoch=352 loss=0.437272379399
+saving snapshot checkpoint.352
+Epoch took 0.12632894516 seconds
+epoch=353 loss=0.435700862699
+saving snapshot checkpoint.353
+Epoch took 0.102868080139 seconds
+epoch=354 loss=0.434834152742
+saving snapshot checkpoint.354
+Epoch took 0.105515956879 seconds
+epoch=355 loss=0.433541925828
+saving snapshot checkpoint.355
+Epoch took 0.10065984726 seconds
+epoch=356 loss=0.433013764544
+saving snapshot checkpoint.356
+Epoch took 0.0785050392151 seconds
+epoch=357 loss=0.432015063362
+saving snapshot checkpoint.357
+Epoch took 0.101480960846 seconds
+epoch=358 loss=0.431844272268
+saving snapshot checkpoint.358
+Epoch took 0.10321688652 seconds
+epoch=359 loss=0.431160803905
+saving snapshot checkpoint.359
+Epoch took 0.101631879807 seconds
+epoch=360 loss=0.431389692418
+saving snapshot checkpoint.360
+Epoch took 0.117825031281 seconds
+epoch=361 loss=0.431037014691
+saving snapshot checkpoint.361
+Epoch took 0.108438968658 seconds
+epoch=362 loss=0.431681326697
+saving snapshot checkpoint.362
+Epoch took 0.102024078369 seconds
+epoch=363 loss=0.431630712961
+saving snapshot checkpoint.363
+Epoch took 0.104063034058 seconds
+epoch=364 loss=0.432591785939
+saving snapshot checkpoint.364
+Epoch took 0.101757049561 seconds
+epoch=365 loss=0.432706029989
+saving snapshot checkpoint.365
+Epoch took 0.102651119232 seconds
+epoch=366 loss=0.43369366665
+saving snapshot checkpoint.366
+Epoch took 0.106472015381 seconds
+epoch=367 loss=0.433662537673
+saving snapshot checkpoint.367
+Epoch took 0.103882074356 seconds
+epoch=368 loss=0.434233791425
+saving snapshot checkpoint.368
+Epoch took 0.103776216507 seconds
+epoch=369 loss=0.433601770124
+saving snapshot checkpoint.369
+Epoch took 0.0994729995728 seconds
+epoch=370 loss=0.433355489859
+saving snapshot checkpoint.370
+Epoch took 0.0994491577148 seconds
+epoch=371 loss=0.431783433611
+saving snapshot checkpoint.371
+Epoch took 0.113317966461 seconds
+epoch=372 loss=0.43059349681
+saving snapshot checkpoint.372
+Epoch took 0.108635902405 seconds
+epoch=373 loss=0.428230027277
+saving snapshot checkpoint.373
+Epoch took 0.0947098731995 seconds
+epoch=374 loss=0.42633604766
+saving snapshot checkpoint.374
+Epoch took 0.0987491607666 seconds
+epoch=375 loss=0.42376726884
+saving snapshot checkpoint.375
+Epoch took 0.0975499153137 seconds
+epoch=376 loss=0.421602399517
+saving snapshot checkpoint.376
+Epoch took 0.0923449993134 seconds
+epoch=377 loss=0.419359470049
+saving snapshot checkpoint.377
+Epoch took 0.101371049881 seconds
+epoch=378 loss=0.41727805624
+saving snapshot checkpoint.378
+Epoch took 0.100833892822 seconds
+epoch=379 loss=0.415551687999
+saving snapshot checkpoint.379
+Epoch took 0.102703094482 seconds
+epoch=380 loss=0.413725353476
+saving snapshot checkpoint.380
+Epoch took 0.0876479148865 seconds
+epoch=381 loss=0.412462848734
+saving snapshot checkpoint.381
+Epoch took 0.0809099674225 seconds
+epoch=382 loss=0.410937738237
+saving snapshot checkpoint.382
+Epoch took 0.0967099666595 seconds
+epoch=383 loss=0.410023383989
+saving snapshot checkpoint.383
+Epoch took 0.0774190425873 seconds
+epoch=384 loss=0.408802370719
+saving snapshot checkpoint.384
+Epoch took 0.0794560909271 seconds
+epoch=385 loss=0.408154972326
+saving snapshot checkpoint.385
+Epoch took 0.0748791694641 seconds
+epoch=386 loss=0.407248421459
+saving snapshot checkpoint.386
+Epoch took 0.0765719413757 seconds
+epoch=387 loss=0.406850399816
+saving snapshot checkpoint.387
+Epoch took 0.0821259021759 seconds
+epoch=388 loss=0.406299560382
+saving snapshot checkpoint.388
+Epoch took 0.0796730518341 seconds
+epoch=389 loss=0.406199958185
+saving snapshot checkpoint.389
+Epoch took 0.0782270431519 seconds
+epoch=390 loss=0.406079281752
+saving snapshot checkpoint.390
+Epoch took 0.0799841880798 seconds
+epoch=391 loss=0.406382787731
+saving snapshot checkpoint.391
+Epoch took 0.0796980857849 seconds
+epoch=392 loss=0.406767354883
+saving snapshot checkpoint.392
+Epoch took 0.0844480991364 seconds
+epoch=393 loss=0.407583654932
+saving snapshot checkpoint.393
+Epoch took 0.0818288326263 seconds
+epoch=394 loss=0.40844015576
+saving snapshot checkpoint.394
+Epoch took 0.0826480388641 seconds
+epoch=395 loss=0.409744330697
+saving snapshot checkpoint.395
+Epoch took 0.0821981430054 seconds
+epoch=396 loss=0.410727740723
+saving snapshot checkpoint.396
+Epoch took 0.0816531181335 seconds
+epoch=397 loss=0.412144048421
+saving snapshot checkpoint.397
+Epoch took 0.0967228412628 seconds
+epoch=398 loss=0.412476825998
+saving snapshot checkpoint.398
+Epoch took 0.0838000774384 seconds
+epoch=399 loss=0.413247654908
+saving snapshot checkpoint.399
+Epoch took 0.0790288448334 seconds
+epoch=400 loss=0.412120131695
+saving snapshot checkpoint.400
+Epoch took 0.0833749771118 seconds
+epoch=401 loss=0.41161148111
+saving snapshot checkpoint.401
+Epoch took 0.0785658359528 seconds
+epoch=402 loss=0.409029332968
+saving snapshot checkpoint.402
+Epoch took 0.0819180011749 seconds
+epoch=403 loss=0.407346294755
+saving snapshot checkpoint.403
+Epoch took 0.0840408802032 seconds
+epoch=404 loss=0.404229428049
+saving snapshot checkpoint.404
+Epoch took 0.0794758796692 seconds
+epoch=405 loss=0.402025974091
+saving snapshot checkpoint.405
+Epoch took 0.0779800415039 seconds
+epoch=406 loss=0.399279715069
+saving snapshot checkpoint.406
+Epoch took 0.0805170536041 seconds
+epoch=407 loss=0.397116279611
+saving snapshot checkpoint.407
+Epoch took 0.0769820213318 seconds
+epoch=408 loss=0.395059313455
+saving snapshot checkpoint.408
+Epoch took 0.0931479930878 seconds
+epoch=409 loss=0.393174381957
+saving snapshot checkpoint.409
+Epoch took 0.0846738815308 seconds
+epoch=410 loss=0.39171944182
+saving snapshot checkpoint.410
+Epoch took 0.100998878479 seconds
+epoch=411 loss=0.390150920543
+saving snapshot checkpoint.411
+Epoch took 0.0978939533234 seconds
+epoch=412 loss=0.389112455567
+saving snapshot checkpoint.412
+Epoch took 0.0979881286621 seconds
+epoch=413 loss=0.387833849915
+saving snapshot checkpoint.413
+Epoch took 0.101854085922 seconds
+epoch=414 loss=0.387069692846
+saving snapshot checkpoint.414
+Epoch took 0.1034719944 seconds
+epoch=415 loss=0.386056785308
+saving snapshot checkpoint.415
+Epoch took 0.103353023529 seconds
+epoch=416 loss=0.385497497561
+saving snapshot checkpoint.416
+Epoch took 0.103463172913 seconds
+epoch=417 loss=0.384753900831
+saving snapshot checkpoint.417
+Epoch took 0.101399898529 seconds
+epoch=418 loss=0.384400034209
+saving snapshot checkpoint.418
+Epoch took 0.101186990738 seconds
+epoch=419 loss=0.383967170607
+saving snapshot checkpoint.419
+Epoch took 0.10213303566 seconds
+epoch=420 loss=0.38388749458
+saving snapshot checkpoint.420
+Epoch took 0.101968050003 seconds
+epoch=421 loss=0.383845409201
+saving snapshot checkpoint.421
+Epoch took 0.104856967926 seconds
+epoch=422 loss=0.384174433493
+saving snapshot checkpoint.422
+Epoch took 0.102025032043 seconds
+epoch=423 loss=0.384616239994
+saving snapshot checkpoint.423
+Epoch took 0.099543094635 seconds
+epoch=424 loss=0.385517212523
+saving snapshot checkpoint.424
+Epoch took 0.0992329120636 seconds
+epoch=425 loss=0.386453041558
+saving snapshot checkpoint.425
+Epoch took 0.09596991539 seconds
+epoch=426 loss=0.387976636073
+saving snapshot checkpoint.426
+Epoch took 0.1003241539 seconds
+epoch=427 loss=0.389131941131
+saving snapshot checkpoint.427
+Epoch took 0.0949468612671 seconds
+epoch=428 loss=0.390943512429
+saving snapshot checkpoint.428
+Epoch took 0.0975501537323 seconds
+epoch=429 loss=0.391596652509
+saving snapshot checkpoint.429
+Epoch took 0.0902359485626 seconds
+epoch=430 loss=0.392855813815
+saving snapshot checkpoint.430
+Epoch took 0.0786988735199 seconds
+epoch=431 loss=0.392155003383
+saving snapshot checkpoint.431
+Epoch took 0.0909750461578 seconds
+epoch=432 loss=0.392065988898
+saving snapshot checkpoint.432
+Epoch took 0.0979499816895 seconds
+epoch=433 loss=0.389850834077
+saving snapshot checkpoint.433
+Epoch took 0.101722002029 seconds
+epoch=434 loss=0.388458046715
+saving snapshot checkpoint.434
+Epoch took 0.082309961319 seconds
+epoch=435 loss=0.385490516809
+saving snapshot checkpoint.435
+Epoch took 0.0946531295776 seconds
+epoch=436 loss=0.38349290384
+saving snapshot checkpoint.436
+Epoch took 0.0902009010315 seconds
+epoch=437 loss=0.380677723434
+saving snapshot checkpoint.437
+Epoch took 0.0789728164673 seconds
+epoch=438 loss=0.378663947635
+saving snapshot checkpoint.438
+Epoch took 0.0809650421143 seconds
+epoch=439 loss=0.37643257182
+saving snapshot checkpoint.439
+Epoch took 0.0820319652557 seconds
+epoch=440 loss=0.374640625156
+saving snapshot checkpoint.440
+Epoch took 0.0799870491028 seconds
+epoch=441 loss=0.373010481725
+saving snapshot checkpoint.441
+Epoch took 0.0813190937042 seconds
+epoch=442 loss=0.371480968067
+saving snapshot checkpoint.442
+Epoch took 0.0917708873749 seconds
+epoch=443 loss=0.370312332254
+saving snapshot checkpoint.443
+Epoch took 0.0789031982422 seconds
+epoch=444 loss=0.369024822582
+saving snapshot checkpoint.444
+Epoch took 0.0824220180511 seconds
+epoch=445 loss=0.36817341704
+saving snapshot checkpoint.445
+Epoch took 0.0807828903198 seconds
+epoch=446 loss=0.367101023456
+saving snapshot checkpoint.446
+Epoch took 0.100267887115 seconds
+epoch=447 loss=0.366467685583
+saving snapshot checkpoint.447
+Epoch took 0.0969939231873 seconds
+epoch=448 loss=0.3655946601
+saving snapshot checkpoint.448
+Epoch took 0.0891301631927 seconds
+epoch=449 loss=0.365130173678
+saving snapshot checkpoint.449
+Epoch took 0.0873961448669 seconds
+epoch=450 loss=0.364458017573
+saving snapshot checkpoint.450
+Epoch took 0.078684091568 seconds
+epoch=451 loss=0.364157086615
+saving snapshot checkpoint.451
+Epoch took 0.095144033432 seconds
+epoch=452 loss=0.363706490292
+saving snapshot checkpoint.452
+Epoch took 0.0816421508789 seconds
+epoch=453 loss=0.363601780999
+saving snapshot checkpoint.453
+Epoch took 0.079619884491 seconds
+epoch=454 loss=0.363410018387
+saving snapshot checkpoint.454
+Epoch took 0.0782990455627 seconds
+epoch=455 loss=0.363563528361
+saving snapshot checkpoint.455
+Epoch took 0.0859589576721 seconds
+epoch=456 loss=0.363669633287
+saving snapshot checkpoint.456
+Epoch took 0.0879111289978 seconds
+epoch=457 loss=0.364148218437
+saving snapshot checkpoint.457
+Epoch took 0.098687171936 seconds
+epoch=458 loss=0.364553228952
+saving snapshot checkpoint.458
+Epoch took 0.096745967865 seconds
+epoch=459 loss=0.365367146712
+saving snapshot checkpoint.459
+Epoch took 0.104964971542 seconds
+epoch=460 loss=0.365962443885
+saving snapshot checkpoint.460
+Epoch took 0.104300022125 seconds
+epoch=461 loss=0.366966540486
+saving snapshot checkpoint.461
+Epoch took 0.101288080215 seconds
+epoch=462 loss=0.367469899835
+saving snapshot checkpoint.462
+Epoch took 0.102099180222 seconds
+epoch=463 loss=0.368309979072
+saving snapshot checkpoint.463
+Epoch took 0.103096008301 seconds
+epoch=464 loss=0.368321231364
+saving snapshot checkpoint.464
+Epoch took 0.0984029769897 seconds
+epoch=465 loss=0.368582025492
+saving snapshot checkpoint.465
+Epoch took 0.100447893143 seconds
+epoch=466 loss=0.36781598674
+saving snapshot checkpoint.466
+Epoch took 0.0995600223541 seconds
+epoch=467 loss=0.367332671488
+saving snapshot checkpoint.467
+Epoch took 0.0963039398193 seconds
+epoch=468 loss=0.36583064674
+saving snapshot checkpoint.468
+Epoch took 0.102130889893 seconds
+epoch=469 loss=0.364789961397
+saving snapshot checkpoint.469
+Epoch took 0.101916074753 seconds
+epoch=470 loss=0.362862956376
+saving snapshot checkpoint.470
+Epoch took 0.100306987762 seconds
+epoch=471 loss=0.361561373859
+saving snapshot checkpoint.471
+Epoch took 0.103286027908 seconds
+epoch=472 loss=0.359567530697
+saving snapshot checkpoint.472
+Epoch took 0.101733922958 seconds
+epoch=473 loss=0.358197234286
+saving snapshot checkpoint.473
+Epoch took 0.102538108826 seconds
+epoch=474 loss=0.356392268651
+saving snapshot checkpoint.474
+Epoch took 0.105040073395 seconds
+epoch=475 loss=0.355042431253
+saving snapshot checkpoint.475
+Epoch took 0.101283073425 seconds
+epoch=476 loss=0.353546710173
+saving snapshot checkpoint.476
+Epoch took 0.103925943375 seconds
+epoch=477 loss=0.352267701822
+saving snapshot checkpoint.477
+Epoch took 0.1046230793 seconds
+epoch=478 loss=0.351095295271
+saving snapshot checkpoint.478
+Epoch took 0.102981090546 seconds
+epoch=479 loss=0.349923825155
+saving snapshot checkpoint.479
+Epoch took 0.105653047562 seconds
+epoch=480 loss=0.349032269051
+saving snapshot checkpoint.480
+Epoch took 0.103347063065 seconds
+epoch=481 loss=0.347993778425
+saving snapshot checkpoint.481
+Epoch took 0.100610017776 seconds
+epoch=482 loss=0.347327925496
+saving snapshot checkpoint.482
+Epoch took 0.100148916245 seconds
+epoch=483 loss=0.346440065972
+saving snapshot checkpoint.483
+Epoch took 0.0968911647797 seconds
+epoch=484 loss=0.345958995429
+saving snapshot checkpoint.484
+Epoch took 0.104751825333 seconds
+epoch=485 loss=0.345238926058
+saving snapshot checkpoint.485
+Epoch took 0.105973005295 seconds
+epoch=486 loss=0.344928012123
+saving snapshot checkpoint.486
+Epoch took 0.106029987335 seconds
+epoch=487 loss=0.344399759285
+saving snapshot checkpoint.487
+Epoch took 0.103887081146 seconds
+epoch=488 loss=0.344274568587
+saving snapshot checkpoint.488
+Epoch took 0.101531982422 seconds
+epoch=489 loss=0.343972473952
+saving snapshot checkpoint.489
+Epoch took 0.0931890010834 seconds
+epoch=490 loss=0.344076822319
+saving snapshot checkpoint.490
+Epoch took 0.0999779701233 seconds
+epoch=491 loss=0.34403995084
+saving snapshot checkpoint.491
+Epoch took 0.102031946182 seconds
+epoch=492 loss=0.344432508852
+saving snapshot checkpoint.492
+Epoch took 0.101454019547 seconds
+epoch=493 loss=0.344680784353
+saving snapshot checkpoint.493
+Epoch took 0.0957992076874 seconds
+epoch=494 loss=0.345395055147
+saving snapshot checkpoint.494
+Epoch took 0.102944850922 seconds
+epoch=495 loss=0.34587705313
+saving snapshot checkpoint.495
+Epoch took 0.0994939804077 seconds
+epoch=496 loss=0.346843092106
+saving snapshot checkpoint.496
+Epoch took 0.0873739719391 seconds
+epoch=497 loss=0.347370189132
+saving snapshot checkpoint.497
+Epoch took 0.101320028305 seconds
+epoch=498 loss=0.348333045364
+saving snapshot checkpoint.498
+Epoch took 0.101323127747 seconds
+epoch=499 loss=0.34857452367
+saving snapshot checkpoint.499
+Epoch took 0.102125883102 seconds
+epoch=500 loss=0.349133617451
+saving snapshot checkpoint.500
+Epoch took 0.102928876877 seconds
+epoch=501 loss=0.348767711655
+saving snapshot checkpoint.501
+Epoch took 0.103479862213 seconds
+epoch=502 loss=0.348625605594
+saving snapshot checkpoint.502
+Epoch took 0.100522994995 seconds
+epoch=503 loss=0.347569372524
+saving snapshot checkpoint.503
+Epoch took 0.0994699001312 seconds
+epoch=504 loss=0.346770729451
+saving snapshot checkpoint.504
+Epoch took 0.102139949799 seconds
+epoch=505 loss=0.345225132635
+saving snapshot checkpoint.505
+Epoch took 0.102146863937 seconds
+epoch=506 loss=0.344060653137
+saving snapshot checkpoint.506
+Epoch took 0.100834131241 seconds
+epoch=507 loss=0.342326158847
+saving snapshot checkpoint.507
+Epoch took 0.0989899635315 seconds
+epoch=508 loss=0.341050580439
+saving snapshot checkpoint.508
+Epoch took 0.0938141345978 seconds
+epoch=509 loss=0.339363473605
+saving snapshot checkpoint.509
+Epoch took 0.0983939170837 seconds
+epoch=510 loss=0.338089123149
+saving snapshot checkpoint.510
+Epoch took 0.100198030472 seconds
+epoch=511 loss=0.336587730595
+saving snapshot checkpoint.511
+Epoch took 0.0997791290283 seconds
+epoch=512 loss=0.335349598228
+saving snapshot checkpoint.512
+Epoch took 0.102494955063 seconds
+epoch=513 loss=0.334092706833
+saving snapshot checkpoint.513
+Epoch took 0.101096153259 seconds
+epoch=514 loss=0.332912425563
+saving snapshot checkpoint.514
+Epoch took 0.102752923965 seconds
+epoch=515 loss=0.331900575744
+saving snapshot checkpoint.515
+Epoch took 0.102668046951 seconds
+epoch=516 loss=0.330800472751
+saving snapshot checkpoint.516
+Epoch took 0.100415945053 seconds
+epoch=517 loss=0.330000107473
+saving snapshot checkpoint.517
+Epoch took 0.101049900055 seconds
+epoch=518 loss=0.328998031474
+saving snapshot checkpoint.518
+Epoch took 0.102590799332 seconds
+epoch=519 loss=0.328364859152
+saving snapshot checkpoint.519
+Epoch took 0.103509902954 seconds
+epoch=520 loss=0.327472123935
+saving snapshot checkpoint.520
+Epoch took 0.102921009064 seconds
+epoch=521 loss=0.326968004879
+saving snapshot checkpoint.521
+Epoch took 0.101881027222 seconds
+epoch=522 loss=0.326192704663
+saving snapshot checkpoint.522
+Epoch took 0.103182077408 seconds
+epoch=523 loss=0.325794559144
+saving snapshot checkpoint.523
+Epoch took 0.103487968445 seconds
+epoch=524 loss=0.325147392096
+saving snapshot checkpoint.524
+Epoch took 0.100756168365 seconds
+epoch=525 loss=0.324851520743
+saving snapshot checkpoint.525
+Epoch took 0.104892969131 seconds
+epoch=526 loss=0.324351512931
+saving snapshot checkpoint.526
+Epoch took 0.102993965149 seconds
+epoch=527 loss=0.324177048387
+saving snapshot checkpoint.527
+Epoch took 0.101413965225 seconds
+epoch=528 loss=0.323856473745
+saving snapshot checkpoint.528
+Epoch took 0.102317094803 seconds
+epoch=529 loss=0.323849584514
+saving snapshot checkpoint.529
+Epoch took 0.097795009613 seconds
+epoch=530 loss=0.323756037895
+saving snapshot checkpoint.530
+Epoch took 0.0972080230713 seconds
+epoch=531 loss=0.323992703247
+saving snapshot checkpoint.531
+Epoch took 0.0981409549713 seconds
+epoch=532 loss=0.324182062257
+saving snapshot checkpoint.532
+Epoch took 0.096125125885 seconds
+epoch=533 loss=0.32475886329
+saving snapshot checkpoint.533
+Epoch took 0.097146987915 seconds
+epoch=534 loss=0.325265367722
+saving snapshot checkpoint.534
+Epoch took 0.0948040485382 seconds
+epoch=535 loss=0.326254972793
+saving snapshot checkpoint.535
+Epoch took 0.085608959198 seconds
+epoch=536 loss=0.327019978687
+saving snapshot checkpoint.536
+Epoch took 0.0742609500885 seconds
+epoch=537 loss=0.328363718347
+saving snapshot checkpoint.537
+Epoch took 0.0810840129852 seconds
+epoch=538 loss=0.329135827938
+saving snapshot checkpoint.538
+Epoch took 0.0802571773529 seconds
+epoch=539 loss=0.330505693675
+saving snapshot checkpoint.539
+Epoch took 0.0825839042664 seconds
+epoch=540 loss=0.330825553387
+saving snapshot checkpoint.540
+Epoch took 0.0766389369965 seconds
+epoch=541 loss=0.331647066663
+saving snapshot checkpoint.541
+Epoch took 0.0959658622742 seconds
+epoch=542 loss=0.331091849877
+saving snapshot checkpoint.542
+Epoch took 0.0992681980133 seconds
+epoch=543 loss=0.330923418261
+saving snapshot checkpoint.543
+Epoch took 0.103142023087 seconds
+epoch=544 loss=0.329490335215
+saving snapshot checkpoint.544
+Epoch took 0.104325056076 seconds
+epoch=545 loss=0.328435730828
+saving snapshot checkpoint.545
+Epoch took 0.102093935013 seconds
+epoch=546 loss=0.326554819224
+saving snapshot checkpoint.546
+Epoch took 0.102931976318 seconds
+epoch=547 loss=0.325104610433
+saving snapshot checkpoint.547
+Epoch took 0.0920369625092 seconds
+epoch=548 loss=0.32323209462
+saving snapshot checkpoint.548
+Epoch took 0.102447032928 seconds
+epoch=549 loss=0.321778976587
+saving snapshot checkpoint.549
+Epoch took 0.100075960159 seconds
+epoch=550 loss=0.320139441524
+saving snapshot checkpoint.550
+Epoch took 0.100248098373 seconds
+epoch=551 loss=0.318814350138
+saving snapshot checkpoint.551
+Epoch took 0.100227832794 seconds
+epoch=552 loss=0.317456036355
+saving snapshot checkpoint.552
+Epoch took 0.100494146347 seconds
+epoch=553 loss=0.316254150637
+saving snapshot checkpoint.553
+Epoch took 0.098690032959 seconds
+epoch=554 loss=0.31515838422
+saving snapshot checkpoint.554
+Epoch took 0.102662086487 seconds
+epoch=555 loss=0.314055709941
+saving snapshot checkpoint.555
+Epoch took 0.101903915405 seconds
+epoch=556 loss=0.313184557791
+saving snapshot checkpoint.556
+Epoch took 0.101169109344 seconds
+epoch=557 loss=0.312171067416
+saving snapshot checkpoint.557
+Epoch took 0.0984649658203 seconds
+epoch=558 loss=0.311481167095
+saving snapshot checkpoint.558
+Epoch took 0.0960459709167 seconds
+epoch=559 loss=0.310556537949
+saving snapshot checkpoint.559
+Epoch took 0.102830886841 seconds
+epoch=560 loss=0.310006218468
+saving snapshot checkpoint.560
+Epoch took 0.102910995483 seconds
+epoch=561 loss=0.309172274423
+saving snapshot checkpoint.561
+Epoch took 0.102339029312 seconds
+epoch=562 loss=0.308727298961
+saving snapshot checkpoint.562
+Epoch took 0.0880711078644 seconds
+epoch=563 loss=0.307985516563
+saving snapshot checkpoint.563
+Epoch took 0.0809271335602 seconds
+epoch=564 loss=0.30762273044
+saving snapshot checkpoint.564
+Epoch took 0.0847718715668 seconds
+epoch=565 loss=0.306975618898
+saving snapshot checkpoint.565
+Epoch took 0.0774598121643 seconds
+epoch=566 loss=0.306684495152
+saving snapshot checkpoint.566
+Epoch took 0.0842049121857 seconds
+epoch=567 loss=0.30613815583
+saving snapshot checkpoint.567
+Epoch took 0.0996201038361 seconds
+epoch=568 loss=0.305921942758
+saving snapshot checkpoint.568
+Epoch took 0.104799032211 seconds
+epoch=569 loss=0.305489048538
+saving snapshot checkpoint.569
+Epoch took 0.10073018074 seconds
+epoch=570 loss=0.305366616564
+saving snapshot checkpoint.570
+Epoch took 0.10479593277 seconds
+epoch=571 loss=0.305068744485
+saving snapshot checkpoint.571
+Epoch took 0.104928970337 seconds
+epoch=572 loss=0.305077496665
+saving snapshot checkpoint.572
+Epoch took 0.0971779823303 seconds
+epoch=573 loss=0.304946142583
+saving snapshot checkpoint.573
+Epoch took 0.100372076035 seconds
+epoch=574 loss=0.305144534723
+saving snapshot checkpoint.574
+Epoch took 0.104385137558 seconds
+epoch=575 loss=0.305217277563
+saving snapshot checkpoint.575
+Epoch took 0.105651140213 seconds
+epoch=576 loss=0.305681210805
+saving snapshot checkpoint.576
+Epoch took 0.10556602478 seconds
+epoch=577 loss=0.305985674157
+saving snapshot checkpoint.577
+Epoch took 0.103806018829 seconds
+epoch=578 loss=0.306786095075
+saving snapshot checkpoint.578
+Epoch took 0.104602098465 seconds
+epoch=579 loss=0.307300604292
+saving snapshot checkpoint.579
+Epoch took 0.107382059097 seconds
+epoch=580 loss=0.308442157469
+saving snapshot checkpoint.580
+Epoch took 0.102391958237 seconds
+epoch=581 loss=0.309030956208
+saving snapshot checkpoint.581
+Epoch took 0.103266954422 seconds
+epoch=582 loss=0.31034793483
+saving snapshot checkpoint.582
+Epoch took 0.104176044464 seconds
+epoch=583 loss=0.310713545354
+saving snapshot checkpoint.583
+Epoch took 0.101816177368 seconds
+epoch=584 loss=0.311799649786
+saving snapshot checkpoint.584
+Epoch took 0.101885795593 seconds
+epoch=585 loss=0.311567837335
+saving snapshot checkpoint.585
+Epoch took 0.0996270179749 seconds
+epoch=586 loss=0.311916907875
+saving snapshot checkpoint.586
+Epoch took 0.102817058563 seconds
+epoch=587 loss=0.310911924337
+saving snapshot checkpoint.587
+Epoch took 0.106627941132 seconds
+epoch=588 loss=0.310299187502
+saving snapshot checkpoint.588
+Epoch took 0.104462862015 seconds
+epoch=589 loss=0.308756520573
+saving snapshot checkpoint.589
+Epoch took 0.1039249897 seconds
+epoch=590 loss=0.307453908037
+saving snapshot checkpoint.590
+Epoch took 0.103631019592 seconds
+epoch=591 loss=0.305833297713
+saving snapshot checkpoint.591
+Epoch took 0.105188846588 seconds
+epoch=592 loss=0.304332356451
+saving snapshot checkpoint.592
+Epoch took 0.107805013657 seconds
+epoch=593 loss=0.302946710936
+saving snapshot checkpoint.593
+Epoch took 0.106809854507 seconds
+epoch=594 loss=0.301573548378
+saving snapshot checkpoint.594
+Epoch took 0.106394052505 seconds
+epoch=595 loss=0.300483738553
+saving snapshot checkpoint.595
+Epoch took 0.107285022736 seconds
+epoch=596 loss=0.299322027716
+saving snapshot checkpoint.596
+Epoch took 0.104552984238 seconds
+epoch=597 loss=0.298463541364
+saving snapshot checkpoint.597
+Epoch took 0.105080842972 seconds
+epoch=598 loss=0.297472898131
+saving snapshot checkpoint.598
+Epoch took 0.105618953705 seconds
+epoch=599 loss=0.296770417812
+saving snapshot checkpoint.599
+Epoch took 0.102349996567 seconds
