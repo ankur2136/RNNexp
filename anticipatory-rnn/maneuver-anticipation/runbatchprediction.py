@@ -35,8 +35,8 @@ elif maneuver_type == 'all_new_features':
 else:
 	print 'Maneuver mis-match'
 
-#folds = ['fold_1', 'fold_2', 'fold_3', 'fold_4', 'fold_5']
-folds = ['fold_1']
+folds = ['fold_1', 'fold_2', 'fold_3', 'fold_4', 'fold_5']
+#folds = ['fold_1']
 
 checkpoints_params = np.append(np.arange(200, 599, 50), 599)
 
