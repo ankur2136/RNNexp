@@ -21,8 +21,15 @@ for i in range(len(res['recall'])):
 print "\n\nThreshold\n\n"
 print res['threshold']
 
+
+print "\n\nTime\n\n"
+
+for i in range(len(res['time'])):
+        print('\n'.join('{}: {}'.format(*k) for k in enumerate(res['time'][i].tolist())))
+
 #for i in range(len(res['threshold'])):
 #        print('\n'.join('{}: {}'.format(*k) for k in enumerate(res['threshold'][i].tolist())))
 
 
-
+print "\n\n" 
+print res['checkpoints']
